@@ -101,3 +101,4 @@ Called only once, just before the component is removed from the DOM:
 - [Understanding the React Component Lifecycle](http://busypeoples.github.io/post/react-component-lifecycle/)
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/react-component-lifecycle'>Component Lifecycle</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG React Component Lifecycle</p>
